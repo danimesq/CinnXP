@@ -1,4 +1,6 @@
-This project is dormant
+This project is dormant, because, you know: Micro$oft corporativist lobbying.
+
+But heres Arceus' punishment: Windows XP source code has been leaked, for the joy of WINE.
 
 # CinnXP
 
